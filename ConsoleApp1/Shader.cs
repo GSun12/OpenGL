@@ -1,11 +1,11 @@
-﻿using System;
+﻿using OpenTK;
+using OpenTK.Graphics.OpenGL4;
+using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using System.Collections.Generic;
-using OpenTK;
-using OpenTK.Graphics.OpenGL4;
 
-namespace LearnOpenTK.Common
+namespace ConsoleApp1.Common
 {
     // A simple class meant to help create shaders.
     public class Shader

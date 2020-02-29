@@ -1,4 +1,4 @@
-﻿namespace LearnOpenTK
+﻿namespace ConsoleApp1
 {
     public static class Program
     {

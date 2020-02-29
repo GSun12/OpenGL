@@ -1,11 +1,11 @@
-﻿using LearnOpenTK.Common;
+﻿using ConsoleApp1.Common;
 using OpenTK;
 using OpenTK.Graphics;
 using OpenTK.Graphics.OpenGL4;
 using OpenTK.Input;
 using System;
 
-namespace LearnOpenTK
+namespace ConsoleApp1
 {
     // Be warned, there is a LOT of stuff here. It might seem complicated, but just take it slow and you'll be fine.
     // OpenGL's initial hurdle is quite large, but once you get past that, things will start making more sense.
